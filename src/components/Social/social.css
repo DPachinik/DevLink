@@ -1,0 +1,8 @@
+
+.social svg{
+    transition: transfor 0.5s;
+}
+
+.social svg:hover{
+    transform: scale(1.06);
+}
