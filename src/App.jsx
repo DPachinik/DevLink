@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Login from './pages/Login'
 import Admin from './pages/Admin'
 import Error from './pages/Error'
-import Private from "./routes/private"
+import Private from "./routes/Private"
 import Network from "./pages/Network"
 
 const router = createBrowserRouter ([
