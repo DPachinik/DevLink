@@ -41,3 +41,14 @@ DevLink es una aplicación personal para crear y administrar tus enlaces persona
 ## Demo
 
 - URL pública con la lista de links y redes sociales.
+## Capturas de pantalla
+
+### Login
+![Login](./screenshots/login.jpg)
+
+### Panel Admin
+![Panel Admin](./screenshots/admin.jpg)
+### Panel Admin - Preview Link
+![Panel Admin](./screenshots/registro-admin.jpg)
+### Panel error 
+![Panel Admin](./screenshots/error.jpg)
