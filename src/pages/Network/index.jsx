@@ -69,7 +69,7 @@ export default function Network(){
 
                 <label className="label">Link Instagram</label>
                 <Input 
-                placeholder='Url de tu facebook'
+                placeholder='Url de tu Instagram'
                 type='url'
                 value={instagram}
                 onChange={(e)=>setInstagram(e.target.value)}
@@ -77,7 +77,7 @@ export default function Network(){
 
                 <label className="label">Link Youtube</label>
                 <Input 
-                placeholder='Url de tu facebook'
+                placeholder='Url de tu Youtube'
                 type='url'
                 value={youtube}
                 onChange={(e)=>setYoutube(e.target.value)}
