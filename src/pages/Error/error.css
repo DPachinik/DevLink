@@ -1,0 +1,33 @@
+.error{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: #ffff;
+}
+
+.error h1{
+    margin-bottom: 6px;
+}
+
+.error p{
+    margin-bottom: 12px;
+    font-style: italic;
+}
+
+.error .link{
+    background-color: rgba(255,255,255, 0.6);
+    padding: 4px 10px;
+    border-radius: 4px;
+    color: #000;
+    transition: background-color, transform 0.5s ;
+}
+
+.error .link:hover{
+    background-color: #ffff;
+    transform: scale(1.05);
+}
+
+
